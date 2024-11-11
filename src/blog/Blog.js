@@ -91,7 +91,7 @@ function Blog() {
             </div>
 
             <div className="items">
-              <img className="photo" src="/photo2/12.jpg"></img>
+              <img className="photo" src="/photo2/12.JPG"></img>
               <p>Our first night as boyfriend and girlfriend, YAY!
               </p>
             </div>
@@ -157,7 +157,7 @@ function Blog() {
             </div>
 
             <div className="items">
-              <img className="photo" src="/photo2/23.jpg"></img>
+              <img className="photo" src="/photo2/23.JPG"></img>
               <p>First time flight got canceled LOL</p>
             </div>
           </div>
@@ -188,7 +188,7 @@ function Blog() {
             </div>
 
             <div className="items">
-              <img className="photo" src="/photo2/28.JPEG"></img>
+              <img className="photo" src="/photo2/28.jpeg"></img>
               <p>First time at Korean sauna together.</p>
             </div>
 
