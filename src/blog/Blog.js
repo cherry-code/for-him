@@ -47,7 +47,7 @@ function Blog() {
 
           <div className="row">
             <div className="items">
-              <img className="photo" src="/photos/4.JPG"></img>
+              <img className="photo" src="/photos/4.jpg"></img>
               <p>The first photo you sent me after arriving in New York (from what I remember).</p>
             </div>
 
@@ -64,7 +64,7 @@ function Blog() {
 
           <div className="row">
             <div className="items">
-              <img className="photo" src="/photos/7.JPG"></img>
+              <img className="photo" src="/photos/7.jpg"></img>
               <p>First Mirror Selfie (?) <br></br>---I was h***y no CAP---</p>
             </div>
 
