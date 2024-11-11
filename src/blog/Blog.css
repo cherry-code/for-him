@@ -1,0 +1,106 @@
+.whole3 {
+    background-color: pink;
+}
+
+.navbar{
+    height: 120px;
+    background-color: #A94064;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    width:100%;
+    align-items: center;
+}
+
+.nav {
+    font-size: 30px;
+    line-height: 100px;
+    font-weight: bold; 
+    padding-left: 20px;
+}
+
+.spotify {
+    margin: 10px;
+    height: 100px;
+    width: auto;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 100px;
+    justify-content: space-between;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.Logo {
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border-style: solid;
+    border-color: #140d07;
+    border-width: 1.5px;
+    border-radius: 5px;
+}
+
+.nav-item:hover {
+    background-color: pink;
+    border-radius: 8px;
+}
+
+.nav-item {
+    text-decoration: none;
+    justify-content: center;
+    margin: 10px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: pink;
+    font-size: 24px;
+    padding: 40px;
+    line-height: 100px;
+}
+
+.nav-link:hover {
+    color:#A94064;
+}
+
+.active {
+    background-color: pink;
+    border-radius: 8px;
+    justify-content: center;
+    line-height: 100px;
+}
+
+h1{
+    padding-top: 20px; 
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.activity {
+    color:#A94064;
+}
+
+.row {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+.row .items {
+    margin: 30px;
+    padding: 20px;
+    height: auto;
+    border-style: solid;
+    border-color: #A94064;
+    background-color: beige;
+    border-radius: 12px;
+    align-items: center;
+}
+
+.photo {
+    width: auto;
+    height: 300px;
+    padding: 10px;
+}

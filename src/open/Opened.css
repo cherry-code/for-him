@@ -1,0 +1,151 @@
+.whole2 {
+    background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('IMG_9661.jpg');
+    background-position: center; /* Center the image */
+    background-size: cover; /* Scale image to cover entire area */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    
+}
+
+.spotify {
+    margin: 10px;
+    height: 100px;
+    width: auto;
+}
+
+.navbar{
+    height: 120px;
+    background-color: #A94064;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    width:100%;
+    align-items: center;
+}
+
+.nav {
+    font-size: 30px;
+    line-height: 100px;
+    font-weight: bold; 
+    padding-left: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 100px;
+    justify-content: space-between;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.Logo {
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    border-style: solid;
+    border-color: #140d07;
+    border-width: 1.5px;
+    border-radius: 5px;
+}
+
+.nav-item:hover {
+    background-color: pink;
+    border-radius: 8px;
+}
+
+.nav-item {
+    text-decoration: none;
+    margin: 10px;
+    justify-content: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: pink;
+    font-size: 24px;
+    padding: 40px;
+    line-height: 100px;
+}
+
+.nav-link:hover {
+    color:#A94064;
+}
+
+.active {
+    background-color: pink;
+    border-radius: 8px;
+    justify-content: center;
+    line-height: 100px;
+}
+
+.activity {
+    color:#A94064;
+}
+
+.letter {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    padding-bottom: 60px;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: transparent;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #140d07;
+    border-width: 7px;
+}
+
+.birthday {
+    color: transparent;
+    background-image:linear-gradient(black, black);
+    background-repeat: no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-position: -1000px 0;
+    animation: backcolor 5s linear infinite alternate;
+}
+
+@keyframes backcolor {
+    100%{
+        background-position: 0 0;
+    }
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+h3 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.letter p {
+    text-align: left;
+}
+
+.letter .sign {
+    align-items: left;
+    height: 120px;
+    width: auto;
+}
+
+.emoji {
+    height: 20px;
+    width: auto;
+}
+
+.margin-fix {
+    padding: 30px;
+}

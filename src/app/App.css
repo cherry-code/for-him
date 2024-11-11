@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: Bradley Hand, cursive;
+}
+
+.whole {
+  background-color: pink;
+  height: 120vh;
+}
+
+.App {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
+  height: 100vh; /* Full viewport height */
+  text-align: center; /* Center text inside the container */
+}
+
+.direction {
+  margin: center;
+  color: #A94064;
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.App-logo {
+  width: 300px; /* Set the width */
+  height: auto;
+}
+
+.birth-flower {
+  width: 120px; /* Set the width */
+  height: auto;
+  padding: 0px 20px;
+}
+
+.first {
+  display: flex;
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
+  text-align: center;
+}
+
+.birth-flower1 {
+  width: 300px; /* Set the width */
+  height: auto;
+  padding: 0px 100px;
+}
+
+.fr {
+  color: #A94064;
+}
+
+.ig{
+  color: #A94064;
+  font-size: 60px;
+  padding: 0px 80px;
+}
